@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/jakarta.annotation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/jakarta.el-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/lombok-1.18.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amos/eclipse-workspace/AULA9_POO_EXE1/src/main/webapp/WEB-INF/lib/lombok-1.18.26.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
